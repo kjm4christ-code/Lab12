@@ -194,5 +194,8 @@ export const INITIAL_WINDOWS: Record<WindowId, WindowState> = {
   },
 };
 
-export const WALLPAPER_URL = '/src/assets/images/win11_bloom_wallpaper_1795061300432.jpg';
-export const LOCKSCREEN_URL = '/src/assets/images/win11_lockscreen_landscape_1795061300876.jpg';
+import wallpaperImg from '../assets/images/win11_bloom_wallpaper_1795061300432.jpg';
+import lockscreenImg from '../assets/images/win11_lockscreen_landscape_1795061300876.jpg';
+
+export const WALLPAPER_URL = wallpaperImg;
+export const LOCKSCREEN_URL = lockscreenImg;

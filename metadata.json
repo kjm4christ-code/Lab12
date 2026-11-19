@@ -1,0 +1,6 @@
+{
+  "name": "ASUS UEFI & Windows 11 Simulator",
+  "description": "Interactive simulation of an ASUS motherboard UEFI BIOS and Windows 11 desktop for diagnosing disabled network hardware and firewall rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
